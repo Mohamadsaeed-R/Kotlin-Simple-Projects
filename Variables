@@ -1,0 +1,13 @@
+fun main (args: Array<String>){
+    var a =10
+    var b =20
+    var c =a+b
+    println(a)
+    println(b)
+    println(c)
+
+    val year =2026
+    println(year)
+    // var: for mutable variables (can be changed later)
+    // val: for immutable variables (read-only, cannot be changed)
+}
