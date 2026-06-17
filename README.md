@@ -40,4 +40,5 @@ This project is licensed under the **GNU GPL v3 License**.
 
 Anyone is welcome to use these codes in any way they find useful.
 
-You are free to use them for learning, educational purposes, experiments, or any other helpful projects.
+Feel free to use them for learning, educational purposes, experiments, or any other helpful projects.
+
