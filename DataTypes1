@@ -1,0 +1,16 @@
+fun main (args: Array<String>){
+    var age :Int =20
+    print(age)
+
+
+    // 'var' is a keyword that defines a mutable variable (it can be changed later).
+    // 'age' is the name of the variable.
+    // ':' specifies the data type.
+    //: (دو نقطه)
+    //    این علامت به معنای “از نوعِ…” (Type of) است.
+    //    با این علامت،  به کامپایلر اعلام می‌کنیم که این متغیر چه نوع داده‌ای را قرار است در خودش نگه دارد.
+    // 'Int' is the data type (integer).
+    // '=' is the assignment operator.
+    // '20' is the initial value assigned to the variable.
+
+}
