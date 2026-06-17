@@ -1,0 +1,15 @@
+fun main (args: Array<String>){
+    var a:Byte=127
+    var b:Int=a.toInt()
+    var c:Double=b.toDouble()
+
+    println(a)
+    println(b)
+    println(c)
+    var a1:Double=132.32
+    var b1: Int=a1.toInt()
+    var c1: Byte=b1.toByte()
+    println(a1)
+    println(b1)
+    println(c1)
+}
