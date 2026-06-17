@@ -1,0 +1,19 @@
+fun main (args: Array<String>){
+    var a :Boolean=true
+    var b :Char='C'//به '' سینگل کوت و در برنامه نویسی آپاستروف هم گفته میشود.چون رشته نیست از سینگل کوت استفاده میشود.
+    var c :Byte=127
+    var d :Short=-356
+    var e :Int=43543
+    var f :Long=-43543465
+    var g :Float= 4.355443f // اگر انتهایش f نگذاریم ارور میدهد چون ان را دابل در نظر میگیرد
+    var h :Double= 5.6421648
+    println(a)
+    println(b)
+    println(c)
+    println(d)
+    println(e)
+    println(f)
+    println(g)
+    println(h)
+
+}
